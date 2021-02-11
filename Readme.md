@@ -1,0 +1,1 @@
+This is a weather app which is created for practice purpose and learned from "SomTea Codes" youtube channel.
